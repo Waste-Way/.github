@@ -1,3 +1,5 @@
+![Waste Way](https://user-images.githubusercontent.com/51744364/180610898-b4979799-8733-4a13-adca-ba475671c380.png)
+
 # Project-overview
 
 ## What is Waste Way?
