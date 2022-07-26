@@ -32,6 +32,8 @@ How Can Technology Help
 
 ## Project Roadmap
 
+![roadmap](https://user-images.githubusercontent.com/51744364/181123768-5a70e5dc-522b-4ccc-8dfa-71f2a4e6a1d0.PNG)
+
 ## Getting Started
 
 Installing the waste way mobile app.
