@@ -52,7 +52,7 @@ You can find a running system to test at https://wasteway-admin.eu-gb.mybluemix.
 * ReactJs - Front-End framework
 * Flutter - Mobile App
 * New Relic - Monitor android/ios moble app
-* Firebase ML Kit - build image classification tool
+* Google ML Kit - build image classification tool
 
 ## Team
 - [Tlotlo Patriot Kgotlafela; DevOps Developer](https://www.linkedin.com/in/tlotlopkgotlafela/)
