@@ -54,4 +54,9 @@ You can find a running system to test at https://wasteway-admin.eu-gb.mybluemix.
 * New Relic - Monitor android/ios moble app
 * Firebase ML Kit - build image classification tool
 
+## Team
+- [Tlotlo Patriot Kgotlafela; DevOps Developer](https://www.linkedin.com/in/tlotlopkgotlafela/)
+- [Pako Daniel Moatshe; Project Management](https://www.linkedin.com/in/pako-moatshe-94b93216a/)
+- [Pako Chalebgwa; Software Engineer](https://www.linkedin.com/in/pchalebgwa/)
+
  
