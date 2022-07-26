@@ -45,5 +45,13 @@ You can find a running system to test at https://wasteway-admin.eu-gb.mybluemix.
 
 ![wasteway](https://user-images.githubusercontent.com/51744364/181116657-5e59e2ca-6c45-4abe-8b5e-536d91b2dae9.PNG)
 
+##  Built With
+
+* IBM Cloud Foundry - To deploy Waste Way Dashboard
+* IBM Cloud Continuos Delivery - Waste Way Dashboard
+* ReactJs - Front-End framework
+* Flutter - Mobile App
+* New Relic - Monitor android/ios moble app
+* Firebase ML Kit - build image classification tool
 
  
