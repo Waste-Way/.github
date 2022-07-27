@@ -30,7 +30,7 @@ How Can Technology Help
 
 ## Architecture
 
-![flow drawio](https://user-images.githubusercontent.com/51744364/181260984-cebca63f-be2d-42a1-9cb8-33c6e3e66d52.png)
+![flow (1)](https://user-images.githubusercontent.com/51744364/181261419-a54261c7-d9fd-4c8e-9390-aff05fa30081.png)
 
 ## Project Roadmap
 
