@@ -30,6 +30,8 @@ How Can Technology Help
 
 ## Architecture
 
+![flow drawio](https://user-images.githubusercontent.com/51744364/181260984-cebca63f-be2d-42a1-9cb8-33c6e3e66d52.png)
+
 ## Project Roadmap
 
 ![roadmap](https://user-images.githubusercontent.com/51744364/181123768-5a70e5dc-522b-4ccc-8dfa-71f2a4e6a1d0.PNG)
@@ -53,7 +55,7 @@ You can find a running system to test at https://wasteway-admin.eu-gb.mybluemix.
 * IBM Cloud Continuos Delivery - Waste Way Dashboard
 * ReactJs - Front-End framework
 * Flutter - Mobile App
-* New Relic - Monitor android/ios moble app
+* New Relic - Monitor android/ios moble app/react admin dashboard
 * Google ML Kit - build image classification tool
 
 ## Team
