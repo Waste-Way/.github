@@ -33,6 +33,17 @@ How Can Technology Help
 
 ![flow (1)](https://user-images.githubusercontent.com/51744364/181261419-a54261c7-d9fd-4c8e-9390-aff05fa30081.png)
 
+1.	The client could be the User (mobile app) and admin(dashboard).
+2.	Mobile app built with Flutter, will be used by the user to scan waste , Google ML Kit used for image classification
+3.	The images scanned will be stored on Google Cloud Storage
+4.	Admin will view waste pickup location sent through with the image from user and also perform and view other functionalities on the mobile app
+5.	The admin is built with React hosted in IBM Cloud Foundry
+6.	Map on the admin will show location of waste pickup stations of customers, the map API is from ARG GIS platform.
+7.	The mobile app is integrated with New Relic to monitor KPIs 
+8.	The admin dashboard is also integrated with New Relic Monitoring tool to monitor Core web vitals – LCP, Core web vitals – FID, User time on the site, Initial page load and route change, Throughput.
+9.	Alerts were created with New Relic to detect errors and issues on both the mobile app and web application. 
+
+
 ## Project Roadmap
 
 ![roadmap](https://user-images.githubusercontent.com/51744364/181123768-5a70e5dc-522b-4ccc-8dfa-71f2a4e6a1d0.PNG)
