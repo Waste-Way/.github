@@ -73,7 +73,7 @@ Pre-requisites
 Open a web browser and enter http://localhost:3000.
 
 ## Live Demo
-You can find a running system to test at https://wasteway-admin-dashboard.eu-gb.mybluemix.net/ 
+You can find a running system to test at https://wastewayadmin.eu-gb.mybluemix.net/
 
 * The admin views location of waste to be collected from.
 * View status of pickup(collected/pending).
