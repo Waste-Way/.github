@@ -58,8 +58,22 @@ Installing the waste way mobile app.
 * Register and login on the waste way app.
 * Scan dustbin with trash , it will send requests to Waste way admin will pinned location.
 
+## Run the Waste Way Dashboard on local development
+
+Pre-requisites
+
+* Install Node and NPM
+* Install npm packages
+* Start a terminal/CMD in admin/wasteway-admin/ directory.
+* Execute command npm install.
+
+* Run the App
+* Execute command npm start.
+
+Open a web browser and enter http://localhost:3000.
+
 ## Live Demo
-You can find a running system to test at https://wasteway-admin-dashboard.eu-gb.mybluemix.net/
+You can find a running system to test at https://wasteway-admin-dashboard.eu-gb.mybluemix.net/ 
 
 * The admin views location of waste to be collected from.
 * View status of pickup(collected/pending).
