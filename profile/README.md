@@ -52,7 +52,7 @@ How Can Technology Help
 
 Installing the waste way mobile app.
 
-* Download android apk from 
+* Download android apk from https://drive.google.com/file/d/1PrVWsiTdtNMe9FS1Mj4QRm2L7nHaOUJy/view?usp=sharing
 * Register and login on the waste way app.
 * Scan dustbin with trash , it will send requests to Waste way admin will pinned location.
 
