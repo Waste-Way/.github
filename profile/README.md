@@ -29,6 +29,8 @@ How Can Technology Help
 
 ## Video
 
+[![video](https://user-images.githubusercontent.com/51744364/181367461-beb886f8-46ab-4764-9dd3-4bd209904203.png)](https://www.youtube.com/watch?v=M4HAbwkM-kQ)
+
 ## Architecture
 
 ![flow (1)](https://user-images.githubusercontent.com/51744364/181261419-a54261c7-d9fd-4c8e-9390-aff05fa30081.png)
