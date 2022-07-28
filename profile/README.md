@@ -29,7 +29,7 @@ How Can Technology Help
 
 ## Video
 Longer version:
-[![video](https://user-images.githubusercontent.com/51744364/181443948-4d3af4be-f90d-4f99-ad26-d7e69fafff6d.jpeg)](https://www.youtube.com/watch?v=M4HAbwkM-kQ)
+[![video](https://user-images.githubusercontent.com/51744364/181443948-4d3af4be-f90d-4f99-ad26-d7e69fafff6d.jpeg)](https://www.youtube.com/watch?v=jxVMyy9FqNM)
 
 ## Architecture
 
