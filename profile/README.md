@@ -57,7 +57,7 @@ Installing the waste way mobile app.
 * Scan dustbin with trash , it will send requests to Waste way admin will pinned location.
 
 ## Live Demo
-You can find a running system to test at https://wasteway-admin.eu-gb.mybluemix.net/
+You can find a running system to test at https://wasteway-admin-dashboard.eu-gb.mybluemix.net/
 
 * The admin views location of waste to be collected from.
 * View status of pickup(collected/pending).
