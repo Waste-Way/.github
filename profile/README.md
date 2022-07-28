@@ -28,7 +28,7 @@ How Can Technology Help
 * To understand the common type of waste output identified in a specific area  and help  reduce volume of and demand for materials that create the biggest waste     footprint (plastics, electronics, food, textile), and encourage reuse/recycle opportunities :collision::100:
 
 ## Video
-
+Longer version:
 [![video](https://user-images.githubusercontent.com/51744364/181367461-beb886f8-46ab-4764-9dd3-4bd209904203.png)](https://www.youtube.com/watch?v=M4HAbwkM-kQ)
 
 ## Architecture
