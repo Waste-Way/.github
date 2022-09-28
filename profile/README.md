@@ -74,7 +74,9 @@ Open a web browser and enter http://localhost:3000.
 
 ## Live Demo
 You can find a running system to test at https://wastewayadmin.eu-gb.mybluemix.net/
-![Waste Way Website](https://wasteup.s3.eu-de.cloud-object-storage.appdomain.cloud/index.html)
+
+
+[Waste Way Website](https://wasteup.s3.eu-de.cloud-object-storage.appdomain.cloud/index.html)
 
 * The admin views location of waste to be collected from.
 * View status of pickup(collected/pending).
